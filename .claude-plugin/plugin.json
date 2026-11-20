@@ -1,0 +1,7 @@
+{
+  "name": "azkar-status",
+  "version": "0.1.0",
+  "description": "Shows short adhkar in place of the working status line",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
